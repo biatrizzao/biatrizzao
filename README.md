@@ -1,6 +1,6 @@
-- 👋 Oi, me chamo Biatrizzao
+- 👋 Oi, sou Biatrizzao
 - 👀 Estou desenvlvendo interesse em programação.
-- 📫 Meu apelido é bia
+- 📫 Utilizo esse espaço para estudar e expor projetos que utilizo.
 - 😄 Meus pronomes são ela/dela
 - ⚡ Um fato engraçado sobre mim, é que eu amo coxinha
 
